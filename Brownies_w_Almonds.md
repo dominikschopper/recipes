@@ -21,7 +21,7 @@
 - meanwhile, beat the 4 whole eggs and 6 egg yolks with the sugar until light and fluffy
 	(until it is a white foamy mass and the sugar crystals are dissolved, test with your fingers -
 	Tip: a small quantity of honey and the sugar will dissolve faster!!)
-	![beating eggs and sugar end](Brownies_w_Almonds/IMG_20160123_205417.jpg)
+	![beating eggs and sugar end](Brownies_w_Almonds/IMG_20160123_205417b.jpg)
 - mix flour, almonds and a pinch of salt
 - add flour/almond mix alternately while stirring until the dough is quite smooth.
 	![basic dough no nuts](Brownies_w_Almonds/IMG_20160123_210625.jpg)
@@ -68,7 +68,7 @@ if you are a chocolate purist add chocolate chips instead of walnuts (okay, Mr. 
    bis eine fast  weiße schaumige Masse entstanden ist und sich die Zuckerkristalle darin
    aufgelöst haben - Tip: ein oder zwei Tropfen Honig zugeben, dann löst sich der Zucker 
    schneller auf, man sollte den Zucker mit dem Finger nicht mehr spüren können!!)
-	![beating eggs and sugar end](Brownies_w_Almonds/IMG_20160123_205417.jpg)
+	![beating eggs and sugar end](Brownies_w_Almonds/IMG_20160123_205417b.jpg)
 - Mehl, Mandeln und die Prise Salz mischen
 - Nach und nach abwechselnd Schokolade und Mehl-Mandel-Mischung unterrühren bis der Teig
    ganz glatt ist. ![basic dough no nuts](Brownies_w_Almonds/IMG_20160123_210625.jpg)
