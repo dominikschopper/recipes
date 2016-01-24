@@ -1,4 +1,10 @@
 # Brownies with ground almonds
+
+my favourite brownies
+
+![three brownies with walnut closeup](Brownies_w_Almonds/IMG_20160124_130750.jpg)
+![2 thirds of the recipe in a bowl](Brownies_w_Almonds/IMG_20160124_131136.jpg)
+
 ## Ingredients
 - 600gr chocolate (~ 70% cocoa)
 - 500gr butter
@@ -42,6 +48,12 @@ if you are a chocolate purist add chocolate chips instead of walnuts (okay, Mr. 
 (de version below)
 
 #Brownies mit gemahlenen Mandeln
+
+meine Lieblingsbrownies
+
+![three brownies with walnut closeup](Brownies_w_Almonds/IMG_20160124_130750.jpg)
+![2 thirds of the recipe in a bowl](Brownies_w_Almonds/IMG_20160124_131136.jpg)
+
 
 ##Zutaten:
 - 600gr Schokolade (~70% Kakaogehalt) 
