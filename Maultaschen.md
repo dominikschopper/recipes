@@ -5,9 +5,10 @@
 - 350gr Brät
 - 750gr Hackfleisch gem.
 - 1 eingew. Brötchen
-5 Eier
-- 2 Zwiebeln
+- 6 Eier
+- 3 Zwiebeln
 - 1 B. Petersilie
+- 1 Stange Lauch
 - 500gr Spinat
 
 Pfeffer, Salz zum würzen
