@@ -30,7 +30,7 @@ gesamt `60BE o. 43BE` bei ca. 20 Stücken `2-3BE je Stück`
 
 1. Die Gugelhupfform gut einfetten und Semmelbrösel auf der Butter verteilen, damit der Kuchen möglichst leicht 
   aus der Form kommt 
-1. Ofen auf 180°C vorheizen
+1. Ofen auf 170°C vorheizen
 1. weiche Butter und Zucker mit der Vanille schaumig rühren (bis sich die Kristalle beginnen aufzulösen,
   das geht mit ein paar Tropfen Honig schneller)
 1. abwechselnd Mehl (mit dem Salz und Backpulver) und Eier unterrühren
@@ -41,5 +41,5 @@ gesamt `60BE o. 43BE` bei ca. 20 Stücken `2-3BE je Stück`
 1. jeweils abwechselnd eine Hälfte der beiden Teige nach und nach in die Gugelhupf Form geben
 1. mit einer Gabel spiralförmig miteinender vermengen
   ![vermengter Teig](Marmorkuchen/03_backen.jpg)
-1. in den vorgeheizten Backofen geben und ca 40min backen
+1. in den vorgeheizten Backofen geben und bei 170°C ca 55min backen
   ![nach dem Backen](Marmorkuchen/04_nach_dem_backen.jpg)
