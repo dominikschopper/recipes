@@ -3,9 +3,9 @@
 ## Zutaten
 
 - 400gr Haselnüsse (geröstet und gemahlen)
-- 8 Eier 
+- 8 Eier
 - Vanillemark
-- 370gr Zucker
+- 360gr Zucker
 - etwas abgeriebene Schale einer Zitrone (Bio)
 - etwas abgeriebene Schale einer Orange (Bio)
 - 1-2 TL Orangenlikör (oder auch Brandy oder Rum)
@@ -31,11 +31,12 @@
 
 1. Den Backofen auf 160°C vorheizen
 
-2. Von den 8 Eiern 7 trennen und die den Eischnee mit einer Prise salz schön steif schlagen
+2. Von den 8 Eiern 7 trennen und die den Eischnee mit einer Prise salz schön steif schlagen.
+  ca. 100gr des Zuckers unter den Eischnee rühren und den Eischnee beiseite stellen
 
 3. Das letzte Ei mit der Zitronenschale, der Orangenschale und der Vanille ganz zu den
   Eigelben in eine größere Schüssel geben und mit dem Zucker zusammen so lange aufschlagen,
-  bis die Masse sehr hell geworden ist und der Zucker kaum mehr zu spüren ist, wenn man die 
+  bis die Masse sehr hell geworden ist und der Zucker kaum mehr zu spüren ist, wenn man die
   Masse zwischen den Fingern reibt.<br/>
   Das geht schneller, wenn man am Anfang ein bis zwei Tropfen flüssigen Honig hinzufügt<br/>
   Orangenschale habe ich meist icht dagehabt - trotdem war es lecker ;)<br/>
@@ -56,5 +57,5 @@
   Dann die Glasur über den Kuchen streichen.
 
 Der Kuchen schmeckt nach einem Tag noch besser. Da er ohne Mehl gebacken wird, ist er auch nach drei oder
-vier Tagen immer noch lecker und nicht trocken. 
+vier Tagen immer noch lecker und nicht trocken.
 
