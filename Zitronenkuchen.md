@@ -3,7 +3,7 @@
 ## Zutaten
 
 - 250 g	Butter, weich
-- 200 g	Zuckerbr `~ 16,5BE`
+- 200 g	Zucker `~ 16,5BE`
 - Zitrone(n) - Schale, abgerieben, von 2-3 unbehandelten Früchten
 - 5 Eier getrennt
 - 50g Zucker `2.2BE`
