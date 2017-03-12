@@ -3,66 +3,43 @@
 ## Zutaten
 
 ### Boden
-- ca. 150gr Vollkorn Kekse (z.B. Hobbits von Brandt)
-- ca. 75gr Butter
+- 170gr Vollkorn Kekse (z.B. Hobbits von Brandt)
+- 50gr Butter
 - 30gr Zucker
-- 2 EL Mehl
+- 40gr Mehl
 - 1 Prise Salz
 
-		 Mengen von Keks und Butter checken
-
 ### Cheesecake
-- 800gr Frischkäse
-- 200gr Zucker
-- 35gr Mehl
-- 1B Crème Fraîche
+- 1000gr Frischkäse
+- 190gr Zucker
+- 40gr Mehl
+- 100gr Joghurt
 - Saft von einer Limone
-- Vanille
-- 6 Eigelb
-
-### Himbeersauce
-- 500gr Himbeeren (auch gefroren)
-- 100gr Zucker
-- 250ml Rotwein
-- Saft von einer Limone
-- Saft einer halben Zitrone
-- Zitronen und Limonenschale
+- 1 Messerspitze Vanille
+- 8 Eigelb
 
 ## Zubereitung
 
-### Himbeersauce
-
-Die Sauce kann auch ein zwei Tage vorher gemacht werden.
-
-In einem Topf den Zucker zum schmelzen bringen, bis das Karamell hellbraun ist. Dann mit dem Rotwein ablöschen.
-
-Dann die Himbeeren, den Limonen- und den Zitronensaft hinzugeben und das Ganze dann so lange simmern lassen, bis
-es auf die Hälfte reduziert ist.
-
-Die Sauce abkühlen lassen und durch ein Sieb streichen oder die Masse mit einem Pürierstab so lange pürieren, bis
-die Kerne zerkleinert sind.
+Als Topping eignet sich gut die [Himbeersauce](./himbeersauce.md)
 
 ### Boden
-
-Kekse kleinkrümeln, mit Zucker und Mehlr verrühren und mit flüssige Butter verkneten
-Dann den Teig in die Form drücken.
+Kekse zerstoßen, mit Zucker und Mehl vermischen und der mit flüssigen Butter verkneten
+Dann den Teig in die Form drücken. Einen leichten Rand stehen lassen.
 
 ### Füllung
 
 Den Ofen auf 140°C vorheizen.
 
-Frischkäse in einer Schüssel mit dem Schneebesen durchrühren (ruhig eine Weile, damit er schön locker wird).
+Frischkäse mit der Vanille in einer Schüssel mit dem Schneebesen der Küchenmaschine ein paar Minuten rühren.
 
-In einer anderen Schüssel verrührt ihr nun mit einem Schneebesen den Zucker und das Mehl miteinander. Bei niedriger Stufe nun den Zucker-Mix nach und nach in die Schüssel mit dem Frischkäse geben. Mixe so lang bis alles gut vermengt ist. Ein paar Minuten sollten es schon sein.
+In einer anderen Schüssel Zucker und Mehl miteinander mischen, um zu vermeieden, dass Mehlklümpchen entstehen. 
+Bei niedriger Stufe nun die Zucker-Mehl-Mischung nach und nach in die Schüssel mit dem Frischkäse geben.
+Alles gut miteinander verrühren. Dann Joghurt und Limonensaft unterrühren.
 
-Jetzt die Crème Fraîche, den Limonensaft und die Vanille hinzugeben. Wieder gut durchmixen, bis alles vermengt ist.
+Nun die Eier dazugeben und von Hand unterrühren, so dass die Eier eben mit allem vermischt sind.
 
-Nun die Eier dazugeben. Achte drauf, dass du nicht zu lange mixt. Nur so das die Eier gerade so mit dem Rest vermengt sind.
+Die Frischkäsefüllung auf den Keksboden gießen.
 
-Die Frischkäsefüllung in die Springform gießen. Die Springform in einen großen Bräter stellen und den mit heißen Wasser aufgießen.
+45 min bei 145°C backen, dann auf 160°C nochmal 15min backen
 
-	 Backzeit und Temperatur checken
-
-ca. 30-45 min bei 140°C backen
-
-Schmeckt am Besten nach einem Tag kühler Lagerung
+Abkühlen lassen (am Besten über Nacht) und mit einem fruchtigen Topping essen.

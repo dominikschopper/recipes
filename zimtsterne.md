@@ -5,7 +5,7 @@
 ### Teig
 - 3 Eiweiß
 - 250gr Puderzucker
-- 400gr gemahlene ungehäutete Mandeln bis zu 100gr zusätzlich bereit halten
+- 350gr gemahlene ungehäutete Mandeln bis zu 100gr zusätzlich bereit halten
 - 1,5 TL Zimtpulver
 
 ### Glasur

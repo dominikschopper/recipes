@@ -17,7 +17,6 @@
 1. Ofen auf 130°C vorheizen
 1. bei 130° im Ofen backen/trocknen
 
-
 <br />
 <br />
 <br />
