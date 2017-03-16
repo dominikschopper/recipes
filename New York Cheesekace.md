@@ -36,7 +36,7 @@ In einer anderen Schüssel Zucker und Mehl miteinander mischen, um zu vermeieden
 Bei niedriger Stufe nun die Zucker-Mehl-Mischung nach und nach in die Schüssel mit dem Frischkäse geben.
 Alles gut miteinander verrühren. Dann Joghurt und Limonensaft unterrühren.
 
-Nun die Eier dazugeben und von Hand unterrühren, so dass die Eier eben mit allem vermischt sind.
+Nun die Eier dazugeben und mit einem Schneebesen von Hand unterrühren, so dass die Eier eben mit allem vermischt sind.
 
 Die Frischkäsefüllung auf den Keksboden gießen.
 
