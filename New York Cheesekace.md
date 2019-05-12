@@ -23,7 +23,7 @@
 Als Topping eignet sich gut die [Himbeersauce](./himbeersauce.md)
 
 ### Boden
-Kekse zerstoßen, mit Zucker und Mehl vermischen und der mit flüssigen Butter verkneten
+Kekse zerstoßen, mit Zucker und Mehl vermischen und mit der flüssigen Butter verkneten.
 Dann den Teig in die Form drücken. Einen leichten Rand stehen lassen.
 
 ### Füllung
