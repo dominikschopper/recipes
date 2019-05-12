@@ -1,61 +1,45 @@
-<style>.floater {width:49%; float:left;}</style>
 # schwedische Zimtschnecken
 
 ## Zutaten
+
+**Originalmenge (aus schwedischem Rezept)**
+
 ### Teig
 
+- 1l Milch
+- 100g Hefe
+- 250g Butter  
+- 1TL Salz
+- 270gr Zucker
+- 3TL Kardamon
+- 1,8kg Mehl
 
-<div class="floater">
+### Füllung
 
-  <p>Originalmenge</p>
-  <ul>
-      <li>1l Milch</li>
-      <li>100g Hefe</li>
-      <li>250g Butter  </li>
-      <li>1TL Salz</li>
-      <li>270gr Zucker</li>
-      <li>3TL Kardamon</li>
-      <li>1,8kg Mehl</li>
-  </ul>
-</div>
+- 100g Butter
+- 60gr Zucker
+- 2EL Zimt
 
-<div class="floater">
+----------
 
-  <p>Reduziert auf 1 Pfund Mehl</p>
-  <ul>
-      <li>275ml Milch</li>
-      <li>30g Hefe</li>
-      <li>70g Butter</li>
-      <li>1Prise Salz</li>
-      <li>75gr Zucker</li>
-      <li>1TL Kardamon</li>
-      <li>500g Mehl</li>
-  </ul>
-</div>
-<br clear="all">
+**Reduziert auf 1 Pfund Mehl (ca. 25 Zimtschnecken)**
 
-<h3>Füllung</h3>
+### Teig
 
-<div style="width:49%;float:left;">
-    <p>Originalmenge</p>
-  <ul>
-      <li>100g Butter
-      <li>60gr Zucker
-      <li>2EL Zimt
-  </ul>
-</div>
+- 275ml Milch
+- 30g Hefe
+- 70g Butter
+- 1Prise Salz
+- 75gr Zucker
+- 1TL Kardamon
+- 500g Mehl
 
-<br/><br/><br/><br/><br/><br/><br/>
+### Füllung
 
-<div style="width:49%;float:left;">
+- 30g Butter
+- 20gr Zucker
+- 0.5EL Zimt
 
-<p>Reduziert auf 1 Pfund Mehl</p>
-  <ul>
-      <li>30g Butter  <span style="display:inline-block;float:right;">BE:<code>-</code># WW: <code>6P</code></span>
-      <li>20gr Zucker <span style="display:inline-block;float:right;">BE:<code>2BE</code> # WW: <code>1,5P</code></span>
-      <li>0.5EL Zimt
-  </ul>
-</div><div style="clear:both;height:0;"></div>
 
 ## Zubereitung
 
@@ -72,6 +56,7 @@
 1. Die Schnecken aufgehen lassen und dann mit Eigelb bestreichen
 1. Auf die Schnecken Hagelzucker streuen
 1. Die Schnecken im Ofen bei 275° für 5min backen
+
 
 # swedish cinnamon buns
 
