@@ -20,6 +20,6 @@ abgewandelt von [Essen und Trinken, schneller Biskuitboden](http://www.essen-und
 1. Eier mit dem Zucker zusammmen ca. 10min aufschlagen
 3. Mehl-Mandel-Mischung vorsichtig unter die Eimasse heben
 3. Teig in die Form geben und vorsichtig am Rand entlang schwenken
-3. Für ca. 15-20min bei 180 °C
+3. Für ca. 25-30min bei 170°C
 3. Den Biskuitboden etwas abkühlen lassen und dann vorsichtig aus der Form nehmen
 
