@@ -1,14 +1,9 @@
+<style>.floater {width:49%; float:left;}</style>
 # schwedische Zimtschnecken
 
 ## Zutaten
 ### Teig
 
-<style type="text/css">
-  .floater {
-    width:49%;
-    float:left;
-  }
-</style>
 
 <div class="floater">
 
