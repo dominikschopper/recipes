@@ -1,5 +1,7 @@
 # schwedische Zimtschnecken
 
+Haftungsausschluß: Das ist nicht "mein" eigenes Rezept sondern das der Großmutter eines schwedischen Kollegen
+
 ## Zutaten
 
 **Originalmenge (aus schwedischem Rezept)**
@@ -59,6 +61,8 @@
 
 
 # swedish cinnamon buns
+
+Disclaimer: this is not "my" recipe but from a swedish colleagues grandmother
 
 ## ingredients
 ### For the dough
