@@ -3,34 +3,41 @@
 ## Zutaten
 ### Teig
 
-<div style="width:49%;float:left;">
+<style type="text/css">
+  .floater {
+    width:49%;
+    float:left;
+  }
+</style>
+
+<div class="floater">
 
   <p>Originalmenge</p>
   <ul>
-      <li>1l Milch       <span style="display:inline-block;float:right;;margin-right:7em">BE:<code>5</code></span></li>
+      <li>1l Milch</li>
       <li>100g Hefe</li>
       <li>250g Butter  </li>
       <li>1TL Salz</li>
-      <li>270gr Zucker <span style="display:inline-block;float:right;;margin-right:7em">BE: <code>22,5</code></span></li>
+      <li>270gr Zucker</li>
       <li>3TL Kardamon</li>
-      <li>1,8kg Mehl <span style="display:inline-block;float:right;margin-right:7em">BE:<code>90</code></span></li>
+      <li>1,8kg Mehl</li>
   </ul>
 </div>
 
-<div style="width:49%;float:left;">
+<div class="floater">
 
   <p>Reduziert auf 1 Pfund Mehl</p>
   <ul>
-      <li>275ml Milch   <span style="display:inline-block;float:right;">BE:<code>1,3</code> # WW:<code>2P</code></span></li>
+      <li>275ml Milch</li>
       <li>30g Hefe</li>
-      <li>70g Butter    <span style="display:inline-block;float:right;">BE: - # WW:<code>14P</code></span></li>
+      <li>70g Butter</li>
       <li>1Prise Salz</li>
-      <li>75gr Zucker   <span style="display:inline-block;float:right;">BE:<code>6,25</code> # WW: <code>5P</code></span></li>
+      <li>75gr Zucker</li>
       <li>1TL Kardamon</li>
-      <li>500g Mehl     <span style="display:inline-block;float:right;">BE:<code>25</code> # WW: <code>25P</code></span></li>
+      <li>500g Mehl</li>
   </ul>
 </div>
-<div style="clear:both;height:0;"></div>
+<br clear="all">
 
 <h3>Füllung</h3>
 
