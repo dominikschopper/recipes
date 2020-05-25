@@ -13,7 +13,7 @@
 
 Pfeffer, Salz zum würzen
 
-[Nudelteig](./Nudelteig.md)
+[Nudelteig](./nudelteig.md)
 
 ## Zubereitung
 
