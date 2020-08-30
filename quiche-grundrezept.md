@@ -1,4 +1,4 @@
-# Grundrezept Quiche
+# Quiche Grundrezept
 
 ## Zutaten
 - 200 g Mehl
