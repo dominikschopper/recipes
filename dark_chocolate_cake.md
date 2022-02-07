@@ -1,4 +1,4 @@
-# Sinfully Rich Dark Chocolate Cake
+# Rich Dark Chocolate Cake
 
 [http://honestcooking.com/sinfully-rich-dark-chocolate-cake/](http://honestcooking.com/sinfully-rich-dark-chocolate-cake/)
 
