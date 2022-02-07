@@ -9,4 +9,4 @@
 
 ## Zubereitung
 
-1. alle Zutaten (a Besten mit den Händen) miteinander verkneten - fertig
+1. alle Zutaten (a Besten mit den HÃ¤nden) miteinander verkneten - fertig
