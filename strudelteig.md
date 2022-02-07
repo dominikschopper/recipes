@@ -2,12 +2,20 @@
 
 ## Zutaten
 
-- 250gr Mehl
-- 2EL Öl (z.B. Sonnenblumen- oder Rapsöl; 25 g)
-- 1 Ei
+### Teig
+- 300gr Mehl
+- 10 EL kaltes Wasser
+- 1EL Öl (z.B. Sonnenblumen- oder Rapsöl; 25 g)
+- 1EL Essig
 - 1 kräftige Prise Salz
-- 125 ml kaltes Wasser
 - 50-100gr flüssige Butter
+
+### Füllung
+- 3-4 Pfund Äpfel
+- etwas Zitronensaft
+- 120gr Rosinen
+- 100gr geröstete gemahlene Haselnüsse
+- 100gr Semmelbrösel (am besten geröstet)
 
 ## Zubereitung
 
@@ -15,7 +23,10 @@
   innen nach außen mit dem Mehl vermengen
 1. Wenn das Mehl die flüssigen Zutaten aufgenommen hat den Teig 5 - 10min mit dem Handballen dehnen und zusammenfalten
 1. Den Teig mind. eine halbe Stunde abgedeckt im Kühlschrank ruhen lassen.
+
 1. Die Fülling vorbereiten
+  - Äpfel schälen und in 1-2cm große Würfel schneiden und mit Zitronensaft verhindern, dass sie bräunen
+  - Rosinen einweichen
 1. Ein sauberes Geschirrtuch bereitegen und mit etwas Mehl bestäuben
 1. Den Teig mit einem Nudelholz dünn ausrollen (ggf. etwas Mehl darunter geben, damit er nicht klebt)
 1. Danach den Teig über dem Geschirrtuch so weit über dem Handrücken und ggf. den Unterarmen auseinanderziehen, dass man das Muster des Geschirrtuchs durch den Teig erkennen kann
