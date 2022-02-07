@@ -10,7 +10,7 @@
 - 1/2 Päck. Backpulver
 - 4 Eier
 - 250gr weiche Butter
-- 2 Gläser eingemachte Sauerkirschen
+- 390gr eingelegte Sauerkirschen (gewogen ohne Saft)
 
 ## Zubereitung
 
