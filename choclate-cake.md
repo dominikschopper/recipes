@@ -1,4 +1,4 @@
-# CCC = Chewy Chocolate Cake
+# Chocolate Cake / Brownie
 
 eigentlich ein brownie
 
