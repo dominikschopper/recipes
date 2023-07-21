@@ -9,15 +9,15 @@ Zutaten Für 12 Stücke
 - 150g Butter
 
 ### Füllung
-- 7 Eigelb (Kl. M)
+- 8 Eigelb (Kl. M)
 - 1 Dose gesüßte Kondensmilch (400 ml)
-- 100gr Joghurt
+- 250gr Joghurt
 - 100gr Sahne
 - 30gr Zucker
 - 250ml Limettensaft (Flasche)
-- 3 Eiweiß (Kl. M)
+- 5 Eiweiß (Kl. M)
 - Prise Salz
-- 70g Zucker
+- 100g Zucker
 
 ##  Zubereitung
 
