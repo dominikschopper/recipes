@@ -1,24 +1,21 @@
-# Süße Waffeln
+# Süße Waffeln extrem
 
 ## Zutaten
 
-* 125 g	weiche Butter
-* 250 g	Mehl<br/> 12.5BE
+* 250gr weiche Butter
+* 300gr Mehl `15BE`
 * 1 Prise Salz
-* 1 TL	Backpulver
+* 1,5 TL Backpulver
 * Vanille (zuviel Vanille geht ncht)
-* 50 g	Zucker<br/> ~ 4.2BE
-* 4	Ei(er)
-* 250 ml	Buttermilch
-* 1 Apfel<br/> ~ 1-1.5BE
+* 100gr Zucker `knapp 8,5BE`
+* 6	Eier
+* 250ml Buttermilch
 
-gesamt 18-19BE<br/>
-bei 9 Waffeln ca **2BE / Waffel**
+gesamt 23BE
 
 ## Zubereitung
 
-1. wenn die Butter noch zu hart ist, bei milder Hitze schmelzen
-2. Mehl, Salz, Backpulver und Zucker vermengen
-3. Buttermilch (es geht auch Joghurt oder Milch oder eine Mischung aus beidem), Butter und Eier dazugeben und verrühren
-3. den Apfel raspeln und unterrühren
-4. Ausbacken und aufessen
+1. Butter mit Zucker und Salz schaumig rühren (mind. 5min)
+2. Mehl, Salz, Backpulver mischen
+3. Eier, Buttermilch und Mehl abwechselnd unterrühren (langsame Geschwindigkeit)
+5. Ausbacken und aufessen
