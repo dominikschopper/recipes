@@ -23,8 +23,8 @@ für ca. 16 Stücke
 1. Ofen auf 150 Grad (Umluft 110 Grad) vorheizen.
 1. Mehl und Backpulver mischen.
 1. Eier, Eigelb, Zucker und Vanillezucker in einer Schüssel mit den Quirlen des Handrührers mind. 5 Min. cremig schlagen.
-1. Mehlmischung unterrühren
-1. Danach die abgekühlte geschmolzene  Schokolade-Butter-Mischung unterrühren. Auf niedriger Stufe, nicht zu lange(!), besser mit einem Spatel unterheben!
+1. Mehlmischung unterheben
+1. Danach die abgekühlte geschmolzene  Schokolade-Butter-Mischung vorsichtig unterrühren. Auf niedriger Stufe, nicht zu lange(!), besser mit einem Spatel unterheben!
 1. Restliche gehackte Schokolade untermischen.
 1. Teig 10 Min. ruhen lassen.
 1. Teig in der Springform gleichmäßig verstreichen. Im
