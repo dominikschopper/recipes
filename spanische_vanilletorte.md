@@ -1,15 +1,17 @@
 # Spanische Vanilletorte
 
-Lässt sich mehrer Tage aufheben. Bei 16 Stücken ca 2,5 BE pro Stück
+Lässt sich mehrere Tage aufheben. Bei 16 Stücken ca 2,5 BE pro Stück
 
 ## Zutaten
+
+für den Teig
 
 - 150gr Marzipan
 - 150gr weiche Butter
 - 2 Vanilleschoten
 - 7 Eier
 - 1 Prise Salz
-- 150gr Zucker
+- 200gr Zucker
 - 100gr Zartbitterschokolade gehackt
 - 100gr Mehl
 - 200gr gemachlene Mandeln
@@ -18,7 +20,7 @@ Lässt sich mehrer Tage aufheben. Bei 16 Stücken ca 2,5 BE pro Stück
 für den Guss
 
 - 2EL Aprikosenkonfitüre
-- 200gr Zartbitterkuvertüre
+- 200gr (gute!) Zartbitterkuvertüre
 
 
 ## Zubereitung
@@ -27,11 +29,11 @@ für den Guss
 - Ofen auf 180°C vorheizen
 - Schokolade hacken
 - Eier trennen
-- Eiweiß mit 100gr Zucker schaumig schlagen
-- Butter, Vanillemark und restl. (50gr) Zucker schaumig schlagen
+- Eiweiß mit 120gr Zucker schaumig schlagen
+- Butter, Vanillemark und restl. (80gr) Zucker schaumig schlagen
 - Marzipan in kleinen Stücken unterrühren und verrühren, bis alles glatt ist
 - Eigelbe unterrühren
-- Mehl, Backpulver und Mandelmehl vermischen und abwechselölnd mit dem Eischnee nach und nach unterheben
+- Mehl, Backpulver und Mandelmehl vermischen und abwechselnd mit dem Eischnee nach und nach unterheben
 - gehackte Schokolade unterheben
 - Masse in Springform füllen und ca 40min bei 180°C backen
 - Kuchen am Rand der Form ablösen und abkühlen lassen
@@ -40,4 +42,4 @@ Glasur - wenn der Kuchen abgekühlt ist
 
 - Kuvertüre vorsichtig erhitzen, so dass sie flüssig wird
 - Aprikosenmarmelade erhitzen, bis leicht blubbert und den Kuchen überall damit bestreichen
-- Kuvertüre auf dem Kuchen verteilen und erkalten lassen, ggf. zweimal glasieren, damit die Schokoladenschicht darauf dick ist
+- Kuvertüre auf dem Kuchen verteilen und erkalten lassen, ggf. zweimal glasieren, damit die Schokoladenschicht darauf richtig dick ist
