@@ -22,6 +22,7 @@ eine Portion [Strudelteig](./strudelteig.md)
 1. Äpfel schälen und in Würfel schneiden (knapp 2cm groß)
 1. Äpfel mit Zimt bestreuen und mit Zitronensaft übergießen, damit sie nicht braun werden
 1. 2EL Butter in einer Pfanne bei mittlerer Hitze schmelzen, Paniermehl dazugeben und anrösten (ggf. 1 Msp. Zimt dazugeben)
+1. Backblech einfetten oder mit Backpapier belegen
 1. Teig in ein dünnes Rechteck ziehen und auf ein Geschirrtuch legen
 1. 100gr. Butter bei milder Hitze schmelzen lassen
 1. Semmelbrösel daraufgeben (immer einen ca. 3-5cm breiten Rand lassen!)
@@ -30,7 +31,6 @@ eine Portion [Strudelteig](./strudelteig.md)
 1. Zucker und Zimt darauf verteilen
 1. Den Rand über die Füllung klappen
 1. Das Geschirrtuch dazu verwenden, den Strudel aufzurollen
-1. Backblech einfetten oder mit Backpapier belegen
 1. Mit der verbleibenden Spalte nach unten aufs Backblech legen
 1. Mit flüssiger Butter bestreichen
 1. In den Ofen geben und ca. 40min backen, alle 10min wieder mit Butter bestreichen
