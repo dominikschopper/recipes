@@ -6,7 +6,7 @@
 * 1 Prise Salz
 * 1 Würfel Hefe
 * 4-5 Eigelb oder 2-3 Eier
-* ca. 120ml Milch
+* ca. 100ml Milch
 * 100gr Zucker
 * 125gr Butter zimmerwarm
 * ggf. etwas Vanille (oder ein Päckchen Vanillezucker)
