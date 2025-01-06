@@ -14,7 +14,7 @@ für den Teig
 - 200gr Zucker
 - 100gr Zartbitterschokolade gehackt
 - 100gr Mehl
-- 200gr gemachlene Mandeln
+- 200gr gemahlene Mandeln
 - 1/4 TL Backpulver
 
 für den Guss
