@@ -2,17 +2,23 @@
 
 ## Zutaten
 
-- Biskuitboden/[Wiener Boden](./Wiener_Boden.md)
+- Biskuitboden nach [Grundrezept Biskuitboden](./biskuitboden_grundrezept.md) herstellen
 - ca. 700gr Erdbeeren
-- Vanillepudding (ca. 250ml)
-- Johannisbeergelee (oder anderes Fruchtgelee)
+- Vanillepudding (aus ca. 250ml Milch, also ein halbes Päckchen)
+- 100-150gr Quark
+- 1P. roter Tortenguss (kein Erdbeergeschmack, der schmeckt oftz künstlich)
+- ca 250ml Flüssigkeit, halb Apfelsaft, halb Wasser und den Saft einer halben Zitrone
+- 2EL Zucker
 
 ## Zubereitung
 
-Den Biskuitboden mit dem Vanillepudding dünn bestreichen
-
-Die gewaschenen Früchte halbieren und dicht(!) auf den Pudding legen
-
-Das Gelee leicht erhitzen, bis es flüssig ist, dann dünn auf die Früchte streichen
-
-Abkühlen lassen und fertig
+1. Biskuitboden herstellen. Das volle Rezept sollte so aufgehjenm, dass man zwei Böden daraus
+  herstellen kann (einfach mit einem Brotmesser halbieren oder nur das halbe Rezept machen)
+1. Vanillepudding herstellen und lauwarm abkühlen lassen.
+1. mit dem Quark zu einer glatten Masse verrühren.
+1. den Rand der Springform wieder um den lauwarm abgekühlten Biskuitboden geben und schließen
+1. Boden mit der Vanillepudding-Quarkmasse bestreichen.
+1. die gewaschenen Früchte halbieren und dicht(!) auf den Pudding legen.
+1. die Apfelsaft-Wasser-Zitronensaft-Flüssigkeit mit den 2EL Zucker und dem Tortenguss erhitzen,
+  bis er anfängt Blasen zu werfen.
+1. dann auf die Früchte gießen und abkühlen lassen, bis er fest ist.
