@@ -1,3 +1,16 @@
+---
+title: "Mürbeteig - Grundrezept"
+description: "Klassisches Mürbeteig-Grundrezept für Kuchen und Torten"
+tags:
+  - grundrezept
+  - teig
+  - kuchen
+hasImages: false
+difficulty: "einfach"
+time: "15 Minuten + 1 Stunde Kühlzeit"
+lastUpdated: true
+---
+
 # Mürbeteig - Grundrezept
 
 ## Zutaten

@@ -1,8 +1,23 @@
+---
+title: "Käsekuchen"
+description: "Klassischer Käsekuchen mit Mürbeteig und Quark-Füllung"
+tags:
+  - kuchen
+  - käse
+  - quark
+  - klassiker
+hasImages: false
+portions: "12 Stücke"
+difficulty: "mittel"
+time: "90 Minuten"
+lastUpdated: true
+---
+
 # Käsekuchen
 
 ## Zutaten
 
-- Mürbeteig Grundrezept
+- [Mürbeteig Grundrezept](/recipes/muerbeteig)
 
 - 200 g Zucker
 - 100 g Mehl

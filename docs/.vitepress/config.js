@@ -58,8 +58,8 @@ export default defineConfig({
   title: 'Rezepte',
   description: 'Persönliche Rezeptsammlung',
 
-  // GitHub Pages base path
-  base: '/recipes/',
+  // GitHub Pages base path (nur in Production)
+  base: process.env.NODE_ENV === 'production' ? '/recipes/' : '/',
 
   // Theme-Konfiguration
   themeConfig: {
