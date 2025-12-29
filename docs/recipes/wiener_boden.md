@@ -14,9 +14,9 @@ lastUpdated: true
 ## Zutaten
 
 - 6 Eier
-- 200g Zucker 
-- 1 Prise Salz 
-- 180g Mehl 
+- 200g Zucker
+- 1 Prise Salz
+- 180g Mehl
 - 40g Stärke
 - 50g flüssige Butter
 
@@ -30,4 +30,4 @@ Mehl und Stärke unterrühren.
 
 Bei 190°C ca.  40–45 Minuten  backen
 
-Kann z.B. für [Erdbeerkuchen](./Erdbeerkuchen.md) oder Torten verwendet werden
+Kann z.B. für [Erdbeerkuchen](./erdbeerkuchen.md) oder Torten verwendet werden

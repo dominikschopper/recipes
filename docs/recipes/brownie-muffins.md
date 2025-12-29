@@ -12,7 +12,7 @@ lastUpdated: true
 
 # Brownie Muffins
 
-Die Muffins sind eine Ableitung meines [Brownies mit Mandeln Rezepts](/recipes/brownies_w_almonds). Sie sind sehr krümelig (da wenig Mehl im Teig ist) und schön feucht und sehr, sehr schokoladig.
+Die Muffins sind eine Ableitung meines [Brownies mit Mandeln Rezepts](./brownies_w_almonds/index.md). Sie sind sehr krümelig (da wenig Mehl im Teig ist) und schön feucht und sehr, sehr schokoladig.
 
 Die Brownies sind sehr(!) schokoladig, nicht sehr süß und die Walnüsse geben eine schöne Note gegen den sonst fast schon übermächtigen Schokoladengeschmack.
 
