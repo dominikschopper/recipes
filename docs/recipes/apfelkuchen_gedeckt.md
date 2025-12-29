@@ -1,3 +1,15 @@
+---
+title: "Apfelkuchen Gedeckt"
+description: "gedeckter Apfelkuchen"
+tags:
+  - apfel
+  - grundrezept
+  - kuchen
+  - zitrone
+hasImages: false
+lastUpdated: true
+---
+
 # gedeckter Apfelkuchen
 
 ## Mürbeteig
