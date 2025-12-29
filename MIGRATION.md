@@ -10,6 +10,7 @@ Dieser Plan beschreibt die vollständige Migration des Rezepte-Repositories zu e
 - 21 Bilder total, jeweils 1-4 MB groß (~30 MB gesamt)
 - Keine Build-Konfiguration vorhanden
 - Branch `feature/vitepress` bereits erstellt ✓
+- Detaillierter Migrationsplan in MIGRATION.md erstellt ✓
 
 **Ziele:**
 - ✅ Schöne HTML-Website statt einfacher Markdown-Dateien
