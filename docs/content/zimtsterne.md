@@ -1,6 +1,6 @@
 ---
 title: "Zimtsterne"
-description: "Zimtsterne / <a href="#en">jump to en version</a>"
+description: "ein klassisches Weihnachtsgebäck, nach dem Rezept meiner Mutter"
 tags:
   - Mandeln
   - Weihnachtsgebäck

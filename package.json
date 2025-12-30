@@ -13,8 +13,8 @@
     "cooking",
     "baking"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Dominik Schopper",
+  "license": "CC-BY-SA-4.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dominikschopper/recipes.git"

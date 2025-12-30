@@ -67,7 +67,7 @@ function getRecipesSidebar() {
 
 export default defineConfig({
   title: 'Rezepte',
-  description: 'Persönliche Rezeptsammlung',
+  description: 'Meine gesammelten Rezepte',
 
   // GitHub Pages base path (nur in Production)
   base: process.env.NODE_ENV === 'production' ? '/recipes/' : '/',
@@ -130,11 +130,10 @@ export default defineConfig({
 
     // Footer
     footer: {
-      message: 'Persönliche Rezeptsammlung'
+      message: 'Lizenziert unter <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-SA 4.0</a>',
+      copyright: 'Copyright © 2025 Dominik Schopper'
     },
 
-    // Disable prev/next links at bottom of pages
-    docFooter: false
   },
 
   // Markdown-Konfiguration
