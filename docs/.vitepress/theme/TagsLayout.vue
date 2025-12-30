@@ -1,6 +1,7 @@
 <script setup>
 import { data as recipes } from './recipes.data.js'
 import { ref, computed } from 'vue'
+import { withBase } from 'vitepress'
 
 const selectedTag = ref(null);
 const tagsExpanded = ref(false);
@@ -90,7 +91,7 @@ const tagColor = 'var(--vp-c-brand-1)'
       <a
         v-for="recipe in filteredRecipes"
         :key="recipe.url"
-        :href="recipe.url"
+        :href="withBase(recipe.url)"
         class="recipe-card"
       >
         <div class="recipe-header">
@@ -252,6 +253,7 @@ const tagColor = 'var(--vp-c-brand-1)'
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 1.5rem;
+  padding-bottom: 3rem;
 }
 
 .recipe-card {
