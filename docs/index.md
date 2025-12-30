@@ -14,16 +14,16 @@ hero:
       link: /recipes/
 
 features:
-  - icon: 🍰
+  - icon: <span class="material-symbols-outlined">cake</span>
     title: Kuchen & Torten
     details: Klassische und moderne Backrezepte
-  - icon: 🥐
+  - icon: <span class="material-symbols-outlined">bakery_dining</span>
     title: Gebäck
     details: Von Croissants bis Zimtschnecken
-  - icon: 🔍
+  - icon: <span class="material-symbols-outlined">search</span>
     title: Durchsuchbar
     details: Schnelle Suche nach Rezepten und Zutaten
-  - icon: 🏷️
+  - icon: <span class="material-symbols-outlined">label</span>
     title: Organisiert
     details: Filterbar nach Tags und Kategorien
 ---

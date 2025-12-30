@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
+import './material-symbols.css'
 
 export default {
   extends: DefaultTheme,
