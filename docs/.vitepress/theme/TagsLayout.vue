@@ -2,17 +2,17 @@
 import { data as recipes } from './recipes.data.js'
 import { ref, computed } from 'vue'
 
-const selectedTag = ref(null)
-const tagsExpanded = ref(true)
+const selectedTag = ref(null);
+const tagsExpanded = ref(false);
 
 // Extract all unique tags from recipes
 const allTags = computed(() => {
-  const tagSet = new Set()
+  const tagSet = new Set();
   recipes.forEach(recipe => {
     if (recipe.tags && Array.isArray(recipe.tags)) {
       recipe.tags.forEach(tag => {
         if (tag && typeof tag === 'string') {
-          tagSet.add(tag)
+          tagSet.add(tag);
         }
       })
     }
