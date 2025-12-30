@@ -65,18 +65,22 @@ function getRecipesSidebar() {
   }
 }
 
-export default defineConfig({
+const baseConfig = {
   title: 'Rezepte',
   description: 'Meine gesammelten Rezepte',
 
   // GitHub Pages base path (nur in Production)
   base: process.env.NODE_ENV === 'production' ? '/recipes/' : '/',
+}
+
+export default defineConfig({
+  ...baseConfig,
 
   // Favicon
   head: [
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }]
+    ['link', { rel: 'icon', type: 'image/x-icon', href: `${baseConfig.base}favicon.ico` }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: `${baseConfig.base}favicon-32x32.png` }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: `${baseConfig.base}favicon-16x16.png` }]
   ],
 
   // Theme-Konfiguration
