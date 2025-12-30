@@ -1,0 +1,30 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "Persönliche Rezeptsammlung",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "recipes",
+    "cooking",
+    "baking"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominikschopper/recipes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dominikschopper/recipes/issues"
+  },
+  "homepage": "https://github.com/dominikschopper/recipes#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.26"
+  }
+}
