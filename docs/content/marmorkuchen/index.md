@@ -5,6 +5,7 @@ tags:
   - Kuchen
   - Schokolade
   - Mandeln
+  - Klassiker
 hasImages: true
 portions: "30 Stücke"
 difficulty: "einfach"
