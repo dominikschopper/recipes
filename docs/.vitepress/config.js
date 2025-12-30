@@ -1,8 +1,9 @@
 import { defineConfig } from 'vitepress'
-import { readdirSync } from 'fs'
+import { readdirSync, readFileSync } from 'fs'
 import { join } from 'path'
 import { fileURLToPath } from 'url'
 import { dirname } from 'path'
+import matter from 'gray-matter'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
@@ -19,12 +20,17 @@ function getRecipesSidebar() {
       if (item.isFile() && item.name.endsWith('.md') && item.name !== 'index.md') {
         // Datei ohne .md Extension
         const name = item.name.replace('.md', '')
-        const title = name
-          .replace(/_/g, ' ')
-          .replace(/-/g, ' ')
-          .split(' ')
-          .map(w => w.charAt(0).toUpperCase() + w.slice(1))
-          .join(' ')
+        const filePath = join(recipesDir, item.name)
+
+        // Read frontmatter to get title
+        let title = name
+        try {
+          const fileContent = readFileSync(filePath, 'utf-8')
+          const { data } = matter(fileContent)
+          title = data.title || title
+        } catch (err) {
+          console.warn(`Could not read frontmatter from ${item.name}:`, err.message)
+        }
 
         recipes.push({
           text: title,
@@ -32,12 +38,17 @@ function getRecipesSidebar() {
         })
       } else if (item.isDirectory()) {
         // Ordner (für Rezepte mit Bildern)
-        const title = item.name
-          .replace(/_/g, ' ')
-          .replace(/-/g, ' ')
-          .split(' ')
-          .map(w => w.charAt(0).toUpperCase() + w.slice(1))
-          .join(' ')
+        const indexPath = join(recipesDir, item.name, 'index.md')
+
+        // Read frontmatter to get title
+        let title = item.name
+        try {
+          const fileContent = readFileSync(indexPath, 'utf-8')
+          const { data } = matter(fileContent)
+          title = data.title || title
+        } catch (err) {
+          console.warn(`Could not read frontmatter from ${item.name}/index.md:`, err.message)
+        }
 
         recipes.push({
           text: title,
