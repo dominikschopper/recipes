@@ -3,6 +3,7 @@ import { data as recipes } from './recipes.data.js'
 import { ref, computed } from 'vue'
 
 const selectedTag = ref(null)
+const tagsExpanded = ref(true)
 
 // Extract all unique tags from recipes
 const allTags = computed(() => {
@@ -30,16 +31,17 @@ function toggleTag(tag) {
   }
 }
 
-// Tag colors for visual variety
-const tagColors = [
-  'var(--vp-c-brand-1)',
-  'var(--vp-c-brand-2)',
-  'var(--vp-c-brand-3)'
-]
-
-function getTagColor(index) {
-  return tagColors[index % tagColors.length]
+// Toggle tags visibility
+function toggleTagsExpanded(event) {
+  // Don't toggle if clicking on the clear button
+  if (event.target.closest('.clear-filter')) {
+    return
+  }
+  tagsExpanded.value = !tagsExpanded.value
 }
+
+// Single tag color for consistency
+const tagColor = 'var(--vp-c-brand-1)'
 </script>
 
 <template>
@@ -50,21 +52,25 @@ function getTagColor(index) {
     </div>
 
     <div class="tags-filter" v-if="allTags.length > 0">
-      <h2 class="filter-title">
-        <span>Nach Tags filtern</span>
+      <h2 class="filter-title" @click="toggleTagsExpanded">
+        <span class="filter-title-text">
+          <span class="material-symbols-outlined expand-icon" :class="{ expanded: tagsExpanded }">
+            expand_more
+          </span>
+          Nach Tags filtern
+        </span>
 
-        <button class="clear-filter" :class="{'hidden': !selectedTag}" @click="selectedTag = null">
+        <button class="clear-filter" :class="{'hidden': !selectedTag}" @click.stop="selectedTag = null">
           Filter zurücksetzen
         </button>
       </h2>
 
-      <div class="tags-list">
+      <div class="tags-list" v-show="tagsExpanded">
         <button
-          v-for="(tag, index) in allTags"
+          v-for="tag in allTags"
           :key="tag"
           class="tag-button"
           :class="{ active: selectedTag === tag }"
-          :style="{ '--tag-color': getTagColor(index) }"
           @click="toggleTag(tag)"
         >
           {{ tag }}
@@ -168,7 +174,7 @@ function getTagColor(index) {
 
 .tag-button {
   padding: 0.5rem 1rem;
-  border: 2px solid var(--tag-color);
+  border: 2px solid var(--vp-c-brand-1);
   background: transparent;
   color: var(--vp-c-text-1);
   border-radius: 20px;
@@ -179,13 +185,13 @@ function getTagColor(index) {
 }
 
 .tag-button:hover {
-  background: var(--tag-color);
+  background: var(--vp-c-brand-3);
   color: white;
   transform: translateY(-2px);
 }
 
 .tag-button.active {
-  background: var(--tag-color);
+  background: var(--vp-c-brand-1);
   color: white;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
@@ -194,6 +200,29 @@ function getTagColor(index) {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+  transition: color 0.2s;
+}
+
+.filter-title:hover {
+  color: var(--vp-c-brand-1);
+}
+
+.filter-title-text {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.expand-icon {
+  font-size: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.expand-icon.expanded {
+  transform: rotate(180deg);
 }
 
 .clear-filter {
