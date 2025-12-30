@@ -3,6 +3,7 @@ title: "Russischer Zupfkuchen"
 description: "Russischer Zupfkuchen"
 tags:
   - Kuchen
+  - Quark
 hasImages: false
 lastUpdated: true
 ---
