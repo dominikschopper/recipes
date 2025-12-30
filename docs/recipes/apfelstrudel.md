@@ -1,11 +1,8 @@
 ---
 title: "Apfelstrudel"
-description: "Apfelstrudel"
+description: "klasssischer Apfelstrudel"
 tags:
   - apfel
-  - kuchen
-  - mandel
-  - zitrone
 hasImages: false
 lastUpdated: true
 ---

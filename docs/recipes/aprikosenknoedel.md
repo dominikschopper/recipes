@@ -1,15 +1,16 @@
 ---
 title: "Aprikosenknoedel"
-description: "Aprikosenknödel"
+description: "Kartoffelknödel mit Aprikosenfüllung"
 tags:
-  - brot
+  - Aprikose
+  - Süßspeise
 hasImages: false
 lastUpdated: true
 ---
 
 # Aprikosenknödel
 
-FÜR 6 PERSONEN 
+FÜR 6 PERSONEN
 
 ## Zutaten
 ### Teig für Knödel

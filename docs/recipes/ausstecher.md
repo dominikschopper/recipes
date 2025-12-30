@@ -2,16 +2,16 @@
 title: "Ausstecher"
 description: "Ausstecher für Kinder "
 tags:
-  - kuchen
-  - schokolade
+  - weihnachtsgebäck
+  - kekse
 hasImages: false
 lastUpdated: true
 ---
 
-# Ausstecher für Kinder 
- 
+# Ausstecher für Kinder
+
 ## Zutaten
- 
+
 - 250gr Mehl
 - 75gr Puderzucker
 - 1 Prse Salz

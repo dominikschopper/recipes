@@ -1,6 +1,6 @@
 ---
-title: "Choclate Cake"
-description: "Chocolate Cake / Brownie"
+title: "Best Brownie ever"
+description: "A brownie recipe that can be used for the most delicous brownie"
 tags:
   - kuchen
   - schokolade
@@ -8,7 +8,7 @@ hasImages: false
 lastUpdated: true
 ---
 
-# Chocolate Cake / Brownie
+# Brownie or Chocolate Cake
 
 eigentlich ein brownie
 

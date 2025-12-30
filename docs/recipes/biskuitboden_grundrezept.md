@@ -5,7 +5,6 @@ tags:
   - biskuit
   - grundrezept
   - kuchen
-  - mandel
 hasImages: false
 lastUpdated: true
 ---
