@@ -113,7 +113,10 @@ export default defineConfig({
     // Footer
     footer: {
       message: 'Persönliche Rezeptsammlung'
-    }
+    },
+
+    // Disable prev/next links at bottom of pages
+    docFooter: false
   },
 
   // Markdown-Konfiguration
