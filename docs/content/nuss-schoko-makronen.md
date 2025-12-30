@@ -1,15 +1,18 @@
 ---
 title: "Nuss Schoko Makronen"
-description: "Haselnuss-Schoko-Makronen  / <a href="#en">jump to en version</a>"
+description: "Wie Haselnusshäufchen, aber mit Schokolade!"
 tags:
   - Mandeln
   - Nüsse
   - Schokolade
+  - Weihnachtsgebäck
 hasImages: false
 lastUpdated: true
 ---
 
-# Haselnuss-Schoko-Makronen  / <a href="#en">jump to en version</a>
+# Nuss Schoko Makronen
+
+[jump to en version](#hazelnut-chocolate-macaroons)
 
 ## Zutaten
 
@@ -28,36 +31,9 @@ lastUpdated: true
 1. bei 160°C ca. 15min backen
 1. mit flüssiger Schokolade kleine Streifen darauf tropfen lassen
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+-----
 
-<a name="en"></a>
-<br />
-
-# Hazelnut Chocolate macaroons
+# hazelnut chocolate macaroons
 
 ## Ingredients
 

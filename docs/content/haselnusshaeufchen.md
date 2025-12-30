@@ -8,7 +8,9 @@ hasImages: false
 lastUpdated: true
 ---
 
-# Haselnusshäufchen / <a href="#en">jump to en version</a>
+# Haselnusshäufchen
+
+[jump to en version](#hazelnut-heaps)
 
 
 ## Zutaten
@@ -27,13 +29,7 @@ lastUpdated: true
 1. Ofen auf 130°C vorheizen
 1. bei 130° im Ofen backen/trocknen
 
-<br />
-<br />
-<br />
-<br />
-
-<a name="en"></a>
-<br />
+-----
 
 # hazelnut heaps
 

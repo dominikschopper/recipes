@@ -1,14 +1,18 @@
 ---
 title: "Vanillekipferl"
-description: "Vanillekipferl / <a href="#en">jump to en version</a>"
+description: "klassisches Weihnachtsgebäck mit Mandeln und Vanille!"
 tags:
   - Mandeln
   - Vanille
+  - Weihnachtsgebäck
+  - Klassiker
 hasImages: false
 lastUpdated: true
 ---
 
-# Vanillekipferl / <a href="#en">jump to en version</a>
+# Vanillekipferl
+
+[jump to en version](#vanilla-crescents)
 
 ## Zutaten
 
@@ -29,35 +33,10 @@ lastUpdated: true
 1. ca. 15-20min backen, bis hellgelb
 1. warm im Vanillezucker wälzen, dass sie eine dicke Vanillezuckerschicjt bekommen
 
+-----
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<a name="en"></a>
-<br />
 
-# vanilla cookies
+# vanilla crescents
 
 ## ingredients
 

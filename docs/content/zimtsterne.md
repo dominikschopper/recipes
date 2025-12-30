@@ -8,7 +8,8 @@ hasImages: false
 lastUpdated: true
 ---
 
-# Zimtsterne / <a href="#en">jump to en version</a>
+# Zimtsterne
+[jump to en version](#cinnamon-stars)
 
 ## Zutaten
 
@@ -36,22 +37,7 @@ lastUpdated: true
 1. über nacht trocknen lassen
 1. bei 90°C ca. 2h im Ofen trocknen lassen
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<a name="en"></a>
-<br />
+-----
 
 # cinnamon stars
 
