@@ -1,14 +1,14 @@
 // VitePress Data Loader für Rezepte
 import { createContentLoader } from 'vitepress'
 
-export default createContentLoader('recipes/**/*.md', {
+export default createContentLoader('content/**/*.md', {
   includeSrc: false,
   render: false,
   excerpt: false,
   transform(rawData) {
     // Filter out the index page
     const recipes = rawData
-      .filter(page => !page.url.endsWith('/recipes/'))
+      .filter(page => !page.url.endsWith('/content/'))
       .map(page => ({
         title: page.frontmatter.title || 'Untitled',
         url: page.url,

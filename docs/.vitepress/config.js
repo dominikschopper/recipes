@@ -10,7 +10,7 @@ const __dirname = dirname(__filename)
 
 // Funktion zum automatischen Generieren der Rezepte-Liste
 function getRecipesSidebar() {
-  const recipesDir = join(__dirname, '../recipes')
+  const recipesDir = join(__dirname, '../content')
 
   try {
     const items = readdirSync(recipesDir, { withFileTypes: true })
@@ -34,7 +34,7 @@ function getRecipesSidebar() {
 
         recipes.push({
           text: title,
-          link: `/recipes/${name}`
+          link: `/content/${name}`
         })
       } else if (item.isDirectory()) {
         // Ordner (für Rezepte mit Bildern)
@@ -52,7 +52,7 @@ function getRecipesSidebar() {
 
         recipes.push({
           text: title,
-          link: `/recipes/${item.name}/`
+          link: `/content/${item.name}/`
         })
       }
     }
@@ -84,12 +84,12 @@ export default defineConfig({
     // Navigation
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Recipes', link: '/recipes/' }
+      { text: 'Recipes', link: '/content/' }
     ],
 
     // Sidebar - alphabetische Liste
     sidebar: {
-      '/recipes/': [
+      '/content/': [
         {
           text: 'Alle Rezepte',
           items: getRecipesSidebar()

@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Alle Rezepte
-      link: /recipes/
+      link: /content/
     - theme: alt
       text: Suchen
-      link: /recipes/
+      link: /content/
 
 features:
   - icon: <span class="material-symbols-outlined">cake</span>
