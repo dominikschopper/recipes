@@ -1,6 +1,6 @@
 ---
-title: "Mohnfuellung2"
-description: "Mohnfüllung"
+title: "Mohnfüllung (alt)"
+description: "alternative Mohnfüllung für Kuchen und Stückchen"
 tags:
   - basis
   - Mandeln

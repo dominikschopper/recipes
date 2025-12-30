@@ -1,5 +1,5 @@
 ---
-title: "Waffeln süße"
+title: "Waffeln süß"
 description: "süße Waffeln mit sehr viel Ei und Butter"
 tags:
   - Vanille

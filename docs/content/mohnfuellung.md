@@ -1,5 +1,5 @@
 ---
-title: "Mohnfuellung"
+title: "Mohnfüllung"
 description: "Mohnfüllung für Kuchen und Stückchen"
 tags:
   - basis
