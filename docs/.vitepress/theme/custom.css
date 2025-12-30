@@ -68,3 +68,7 @@ h1, h2, h3, h4, h5, h6 {
   --vp-c-brand-3: #1d4ed8;
   --vp-c-brand-soft: rgb(59 130 246 / 0.14);
 }
+
+body {
+  padding-bottom: 1rem;
+}

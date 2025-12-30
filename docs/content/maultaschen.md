@@ -3,6 +3,7 @@ title: "Maultaschen"
 description: "Schwäbische Maultaschen"
 tags:
   - schwäbisch
+  - salzig
 hasImages: false
 lastUpdated: true
 ---

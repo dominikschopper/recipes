@@ -2,16 +2,16 @@
 title: "Vanillekipferl"
 description: "Vanillekipferl / <a href="#en">jump to en version</a>"
 tags:
-  - cookies
-  - mandel
+  - Mandeln
+  - Vanille
 hasImages: false
 lastUpdated: true
 ---
 
 # Vanillekipferl / <a href="#en">jump to en version</a>
- 
+
 ## Zutaten
- 
+
 - Mark von 1 Vanilleschote
 - 100gr. gehäutete gemahlene Mandeln
 - 300gr Mehl

@@ -1,12 +1,9 @@
 ---
-title: "Rueblikuchen"
-description: "Rüblikuchen"
+title: "Rüeblikuchen"
+description: "Ein Kuchen mit geriebenen Karotten"
 tags:
-  - kuchen
-  - mandel
-  - muffins
-  - nuss
-  - zitrone
+  - Kuchen
+  - Mandeln
 hasImages: false
 lastUpdated: true
 ---

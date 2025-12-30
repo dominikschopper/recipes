@@ -1,9 +1,8 @@
 ---
 title: "Mohnfuellung"
-description: "Mohnf&uuml;llung"
+description: "Mohnfüllung für Kuchen und Stückchen"
 tags:
-  - kuchen
-  - nuss
+  - basis
 hasImages: false
 lastUpdated: true
 ---
@@ -12,11 +11,11 @@ lastUpdated: true
 
 ## Zutaten
 
-- 350ml Milch 
-- 120g Zucker 
-- 1 Pk. Vanillezucker 
-- 200g gemahlener Mohn 
-- 50g Grieß 
+- 350ml Milch
+- 120g Zucker
+- 1 Pk. Vanillezucker
+- 200g gemahlener Mohn
+- 50g Grieß
 
 ## Zubereitung
 

@@ -2,8 +2,8 @@
 title: "Zimtsterne"
 description: "Zimtsterne / <a href="#en">jump to en version</a>"
 tags:
-  - kuchen
-  - mandel
+  - Mandeln
+  - Weihnachtsgebäck
 hasImages: false
 lastUpdated: true
 ---
@@ -29,7 +29,7 @@ lastUpdated: true
 1. Teig über Nacht stehen lassen
 1. Auf Puderzucker ca. 0.5-1cm ausrollen (falls der Teig zu weich ist nochmal Mandeln unterrühren)
 1. Zimtsterne ausstechen, Förmchen dabei mit Wasser anfeuchten und ausstechen
-1. die Sterne vorsichtig auf ein Backblech legen 
+1. die Sterne vorsichtig auf ein Backblech legen
 1. die Teigreste nach dem Ausstechen nur vorsichtig übereinanderschlagen (möglichst wenig kneten!)
   und wieder ausrollen
 1. Für die Glasur Eiweiß und Zucker schaumig rühren und auf die Zimtsterne auftragen
@@ -77,7 +77,7 @@ lastUpdated: true
 1. spread powdered sugar on a table and roll dough on the sugar to roughly half a centimeter to 1cm thickness
   (if dough is too soft, mix in more ground almonds )
 1. cut out stars with a cookie star cutter, wet cookie cutter in water so the dough does not stick
-1. fold the rest of carefully (only knead when necessary, just fold) and roll it again 
+1. fold the rest of carefully (only knead when necessary, just fold) and roll it again
 1. carefully put the starś on a baking tray with baking paper
 1. mix the egg whites for the glacing and when stiff add the sugar
 1. put the glacing thickly onto the cinnamon stars

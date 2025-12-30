@@ -2,7 +2,7 @@
 title: "Nudelteig"
 description: "Nudelteig"
 tags:
-  - kuchen
+  - Grundrezept
 hasImages: false
 lastUpdated: true
 ---

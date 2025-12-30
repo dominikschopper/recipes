@@ -2,7 +2,7 @@
 title: "Scones"
 description: "Scones"
 tags:
-  - kuchen
+  - britisch
 hasImages: false
 lastUpdated: true
 ---

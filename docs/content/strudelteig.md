@@ -2,7 +2,7 @@
 title: "Strudelteig"
 description: "Strudelteig"
 tags:
-  - kuchen
+  - basis
 hasImages: false
 lastUpdated: true
 ---

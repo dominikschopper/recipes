@@ -1,8 +1,8 @@
 ---
 title: "Brownies with Ground Almonds"
-description: "My favourite brownies - rich chocolate brownies with ground toasted almonds"
+description: "rich chocolate brownies with toasted ground almonds"
 tags:
-  - brownies
+  - brownie
   - Schokolade
   - Mandeln
   - amerikanisch

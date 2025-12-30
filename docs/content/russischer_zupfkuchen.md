@@ -2,8 +2,7 @@
 title: "Russischer Zupfkuchen"
 description: "Russischer Zupfkuchen"
 tags:
-  - kaese
-  - kuchen
+  - Kuchen
 hasImages: false
 lastUpdated: true
 ---

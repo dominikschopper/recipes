@@ -2,10 +2,8 @@
 title: "Tarte Tatin"
 description: "Tarte tatin"
 tags:
-  - apfel
-  - kuchen
-  - nuss
-  - zitrone
+  - Äpfel
+  - Kuchen
 hasImages: false
 lastUpdated: true
 ---
@@ -28,7 +26,7 @@ gesamt ca. 41-42 BE bei 12 Stücken etwa `3.5BE pro Stück`
 1. Das Mehl mit der Butter, dem Ei, einer Prise Salz und 100gr des Zuckers zu einem weichen Teig kneten, dann ca. 1 Std. kalt stellen.
 2. Äpfel schälen, entkernen und halbieren. Mit Zitronensaft beträufeln und einem TL Zucker bestreuen
 3. Ofen auf 200° C vorheizen
-2. 220 g Zucker karamellisieren, 60 g Butter darin schmelzen. 
+2. 220 g Zucker karamellisieren, 60 g Butter darin schmelzen.
 3. In eine Tarteform (30 cm Durchmesser) gießen, Apfelhälften darauf legen, Zwischenräume mit Apfelstückchen füllen.
 3. Teig etwas größer als die Form ausrollen (wenn zu bröckelig, einfach nochmal mit etwas Mehl durchkneten), dann über die Äpfel legen und die Oberfläche mit einer Gabel einstechen.
 4. Im vorgeheizten Ofen bei 200 Grand ca. 35 Minuten backen

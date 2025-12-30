@@ -3,7 +3,7 @@ title: "Brownie Muffins"
 description: "Brownie Muffins"
 tags:
   - brownie
-  - Mandel
+  - Mandeln
   - Muffins
   - Schokolade
 hasImages: false

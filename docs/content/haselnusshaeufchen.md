@@ -3,7 +3,7 @@ title: "Haselnusshaeufchen"
 description: "Haselnusshäufchen / <a href="#en">jump to en version</a>"
 tags:
   - Weihnachtsgebäck
-  - Nuss
+  - Nüsse
 hasImages: false
 lastUpdated: true
 ---

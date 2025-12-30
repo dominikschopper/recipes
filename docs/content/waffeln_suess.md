@@ -1,8 +1,9 @@
 ---
-title: "Waffeln Suess"
-description: "Süße Waffeln extrem"
+title: "Waffeln süße"
+description: "süße Waffeln mit sehr viel Ei und Butter"
 tags:
-  - kuchen
+  - Vanille
+  - Waffeln
 hasImages: false
 lastUpdated: true
 ---

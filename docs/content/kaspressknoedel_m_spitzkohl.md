@@ -3,6 +3,7 @@ title: "Kaspressknoedel mit Spitzkohl"
 description: "vegetrarisches Hauptegericht"
 tags:
   - Käse
+  - salzig
 hasImages: false
 lastUpdated: true
 ---

@@ -2,9 +2,9 @@
 title: "Schokomuffins"
 description: "Schokomuffins"
 tags:
-  - mandel
-  - muffins
-  - schokolade
+  - Mandeln
+  - Muffins
+  - Schokolade
 hasImages: false
 lastUpdated: true
 ---

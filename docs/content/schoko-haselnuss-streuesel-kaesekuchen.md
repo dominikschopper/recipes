@@ -2,10 +2,9 @@
 title: "Schoko Haselnuss Streuesel Kaesekuchen"
 description: "Schoko-Haselnuss-Streusel-Käsekuchen"
 tags:
-  - kaese
-  - kuchen
-  - nuss
-  - schokolade
+  - Kuchen
+  - Nüsse
+  - Schokolade
 hasImages: false
 lastUpdated: true
 ---

@@ -2,8 +2,8 @@
 title: "Streusel"
 description: "Streusel - Grundrezept"
 tags:
-  - grundrezept
-  - kuchen
+  - Grundrezept
+  - basis
 hasImages: false
 lastUpdated: true
 ---

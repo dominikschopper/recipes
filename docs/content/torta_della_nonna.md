@@ -2,9 +2,9 @@
 title: "Torta Della Nonna"
 description: "Torta della Nonna"
 tags:
-  - kuchen
-  - mandel
-  - zitrone
+  - Kuchen
+  - Mandeln
+  - Vanille
 hasImages: false
 lastUpdated: true
 ---
@@ -36,7 +36,7 @@ abgewandelt von [diesem Rezept](https://www.essen-und-trinken.de/rezepte/torta-d
 - 1 Eigelb
 - 1EL Sahne
 - 30gr Zucker
-- Mandelblättchen oder halbierte Pistazien
+- Mandelnblättchen oder halbierte Pistazien
 - Puderzucker
 
 Gilt für eine runde Kuchenform 28cm Durchmesser

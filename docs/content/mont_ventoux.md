@@ -2,9 +2,8 @@
 title: "Mont Ventoux"
 description: "Mont Ventoux Fleischtopf"
 tags:
-  - apfel
-  - kuchen
-  - nuss
+  - Äpfel
+  - salzig
 hasImages: false
 lastUpdated: true
 ---

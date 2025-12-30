@@ -2,10 +2,9 @@
 title: "Nuss Schoko Makronen"
 description: "Haselnuss-Schoko-Makronen  / <a href="#en">jump to en version</a>"
 tags:
-  - kuchen
-  - mandel
-  - nuss
-  - schokolade
+  - Mandeln
+  - Nüsse
+  - Schokolade
 hasImages: false
 lastUpdated: true
 ---
@@ -26,7 +25,7 @@ lastUpdated: true
 1. Eiweiß mit einer Prise Salz steif schlagen und nach und nach den (Puder-) Zucker unterrühren
 1. Dann die Nüsse und die geriebene Schokolade nach und nach unterheben. Nach Geschmak eine Prise Zimt mit unterheben
 1. Mit zwei Teelöffeln Häufchen auf einem Backpapier machen, (oder - ohne Backpapier - auf Oblaten)
-1. bei 160°C ca. 15min backen 
+1. bei 160°C ca. 15min backen
 1. mit flüssiger Schokolade kleine Streifen darauf tropfen lassen
 
 <br />

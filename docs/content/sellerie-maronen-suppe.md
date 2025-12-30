@@ -2,8 +2,7 @@
 title: "Sellerie Maronen Suppe"
 description: "Sellerie Maronen Suppe mit Chicoree"
 tags:
-  - kuchen
-  - nuss
+  - salzig
 hasImages: false
 lastUpdated: true
 ---

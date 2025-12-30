@@ -3,7 +3,7 @@ title: "Chocolate Almond Cake"
 description: "Chocolate almond cake"
 tags:
   - Kuchen
-  - Mandel
+  - Mandeln
   - Schokolade
 hasImages: false
 lastUpdated: true

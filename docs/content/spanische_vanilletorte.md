@@ -2,10 +2,10 @@
 title: "Spanische Vanilletorte"
 description: "Spanische Vanilletorte"
 tags:
-  - kuchen
-  - mandel
-  - schokolade
-  - torte
+  - Kuchen
+  - Mandeln
+  - Schokolade
+  - Vanille
 hasImages: false
 lastUpdated: true
 ---

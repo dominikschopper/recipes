@@ -2,9 +2,8 @@
 title: "Safran Nudeln Spinat Ricotta"
 description: "Safran Nudeln mit Spinat und Ricotta"
 tags:
-  - kaese
-  - kuchen
-  - nuss
+  - Käse
+  - salzig
 hasImages: false
 lastUpdated: true
 ---

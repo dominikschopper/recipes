@@ -2,9 +2,9 @@
 title: "Quiche Grundrezept"
 description: "Quiche Grundrezept"
 tags:
-  - grundrezept
-  - kaese
-  - kuchen
+  - Grundrezept
+  - Käse
+  - salzig
 hasImages: false
 lastUpdated: true
 ---

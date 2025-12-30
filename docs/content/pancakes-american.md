@@ -2,7 +2,7 @@
 title: "Pancakes American"
 description: "Pancakes, american style / the real taste"
 tags:
-  - kuchen
+  - amerikanisch
 hasImages: false
 lastUpdated: true
 ---

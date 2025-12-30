@@ -2,9 +2,8 @@
 title: "Mohnfuellung2"
 description: "Mohnfüllung"
 tags:
-  - kuchen
-  - mandel
-  - nuss
+  - basis
+  - Mandeln
 hasImages: false
 lastUpdated: true
 ---
@@ -13,10 +12,10 @@ lastUpdated: true
 
 ## Zutaten
 
-- 300ml Milch 
-- 90gr Zucker 
+- 300ml Milch
+- 90gr Zucker
 - Vanillemark
-- 200gr gemahlener Mohn 
+- 200gr gemahlener Mohn
 - 80gr gemahlene Mandeln
 
 ## Zubereitung

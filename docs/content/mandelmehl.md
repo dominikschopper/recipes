@@ -3,7 +3,7 @@ title: "Mandelmehl"
 description: "Mandelmehl"
 tags:
   - Grundrezept
-  - Mandel
+  - Mandeln
 hasImages: false
 lastUpdated: true
 ---

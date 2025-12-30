@@ -2,10 +2,7 @@
 title: "New York Cheesekace"
 description: "New York Cheesecake mit Himbeertopping"
 tags:
-  - cookies
-  - kaese
-  - kuchen
-  - nuss
+  - Kuchen
 hasImages: false
 lastUpdated: true
 ---

@@ -2,9 +2,8 @@
 title: "Wiener Boden"
 description: "Wiener Boden"
 tags:
-  - kuchen
-  - nuss
-  - torte
+  - Biskuit
+  - basis
 hasImages: false
 lastUpdated: true
 ---
