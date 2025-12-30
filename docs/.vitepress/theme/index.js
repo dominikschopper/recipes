@@ -3,6 +3,7 @@ import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
 import './material-symbols.css'
+import TagsLayout from './TagsLayout.vue'
 
 export default {
   extends: DefaultTheme,
@@ -12,6 +13,7 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    // Register custom components
+    app.component('TagsLayout', TagsLayout)
   }
 }

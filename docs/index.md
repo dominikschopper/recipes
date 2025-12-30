@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Rezepte
   text: Persönliche Rezeptsammlung
-  tagline: Eine Sammlung meiner Lieblingsrezepte für Kuchen, Gebäck, Torten und mehr
+  tagline: Eine Sammlung meiner Lieblingsrezepte für Kuchen, Torten und mehr
   actions:
     - theme: brand
       text: Alle Rezepte
