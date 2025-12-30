@@ -32,7 +32,7 @@ lastUpdated: true
 
 ## Zubereitung
 
-Als Topping eignet sich gut die [Himbeersauce](/recipes/himbeersauce)
+Als Topping eignet sich gut die [Himbeersauce](/content/himbeersauce)
 
 ### Boden
 Kekse zerstoßen, mit Zucker und Mehl vermischen und mit der flüssigen Butter verkneten.
@@ -44,7 +44,7 @@ Den Ofen auf 140°C vorheizen.
 
 Frischkäse mit der Vanille in einer Schüssel mit dem Schneebesen der Küchenmaschine ein paar Minuten rühren.
 
-In einer anderen Schüssel Zucker und Mehl miteinander mischen, um zu vermeieden, dass Mehlklümpchen entstehen. 
+In einer anderen Schüssel Zucker und Mehl miteinander mischen, um zu vermeieden, dass Mehlklümpchen entstehen.
 Bei niedriger Stufe nun die Zucker-Mehl-Mischung nach und nach in die Schüssel mit dem Frischkäse geben.
 Alles gut miteinander verrühren. Dann Joghurt und Limonensaft unterrühren.
 

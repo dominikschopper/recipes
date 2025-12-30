@@ -22,7 +22,7 @@ lastUpdated: true
 
 Pfeffer, Salz zum würzen
 
-[Nudelteig](/recipes/nudelteig)
+[Nudelteig](/content/nudelteig)
 
 ## Zubereitung
 

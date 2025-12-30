@@ -16,7 +16,7 @@ lastUpdated: true
 
 ## Zutaten
 
-- [Mürbeteig Grundrezept](/recipes/muerbeteig)
+- [Mürbeteig Grundrezept](/content/muerbeteig)
 
 - 200 g Zucker
 - 100 g Mehl

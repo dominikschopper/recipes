@@ -9,9 +9,17 @@ const tagsExpanded = ref(true)
 const allTags = computed(() => {
   const tagSet = new Set()
   recipes.forEach(recipe => {
-    recipe.tags.forEach(tag => tagSet.add(tag))
+    if (recipe.tags && Array.isArray(recipe.tags)) {
+      recipe.tags.forEach(tag => {
+        if (tag && typeof tag === 'string') {
+          tagSet.add(tag)
+        }
+      })
+    }
   })
-  return Array.from(tagSet).sort((a, b) => a.localeCompare(b, 'de'))
+  return Array.from(tagSet).sort((a, b) =>
+    String(a).localeCompare(String(b), 'de')
+  )
 })
 
 // Filter recipes by selected tag

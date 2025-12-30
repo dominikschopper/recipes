@@ -25,7 +25,7 @@ lastUpdated: true
 - 440gr sugar
 - 1 teaspoon of ground vanilla powder or 1 Vanilla bean
 - 120gr flour
-- 200gr ground toasted almonds (homemade is better, but you can buy ground almonds and it works too, for homemade ground almonds see [almond flour](/recipes/mandelmehl)).
+- 200gr ground toasted almonds (homemade is better, but you can buy ground almonds and it works too, for homemade ground almonds see [almond flour](/content/mandelmehl)).
 - 3-5 table spoons of cocoa powder
 - pinch of salt
 - 300gr walnuts
@@ -80,7 +80,7 @@ meine Lieblingsbrownies
 - Vanilleschote oder Pulver
 - 120gr Mehl
 - 200gr gemahlene geröstete Mandeln (selbstgemacht ist besser,
-  gekauftes geht auch) s. [Mandelmehl](/recipes/mandelmehl)
+  gekauftes geht auch) s. [Mandelmehl](/content/mandelmehl)
 - 3-5El Kakaopulver
 - Prise Salz
 - ca. 300 gr Walnüsse

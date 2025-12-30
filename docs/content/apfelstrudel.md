@@ -22,7 +22,7 @@ lastUpdated: true
 - 2EL Butter für die Semmelbrösel
 - ca. 100gr Butter zum bestreichen
 
-eine Portion [Strudelteig](/recipes/strudelteig)
+eine Portion [Strudelteig](/content/strudelteig)
 
 ## Zubereitung
 

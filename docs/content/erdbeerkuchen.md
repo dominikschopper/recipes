@@ -13,7 +13,7 @@ lastUpdated: true
 
 ## Zutaten
 
-- Biskuitboden nach [Grundrezept Biskuitboden](/recipes/biskuitboden_grundrezept) herstellen
+- Biskuitboden nach [Grundrezept Biskuitboden](/content/biskuitboden_grundrezept) herstellen
 - ca. 700gr Erdbeeren
 - Vanillepudding (aus ca. 250ml Milch, also ein halbes Päckchen)
 - 100-150gr Quark
