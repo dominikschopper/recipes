@@ -1,5 +1,5 @@
 ---
-title: "Kaspressknoedel mit Spitzkohl"
+title: "Kaspressknödel mit Spitzkohl"
 description: "vegetrarisches Hauptegericht"
 tags:
   - Käse

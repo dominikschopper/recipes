@@ -1,6 +1,6 @@
 ---
-title: "Schoko Haselnuss Streuesel Kaesekuchen"
-description: "Schoko-Haselnuss-Streusel-Käsekuchen"
+title: "Schoko Haselnuss Streuesel Käsekuchen"
+description: "Das Beste von allem in einem Käsekuchen"
 tags:
   - Kuchen
   - Nüsse

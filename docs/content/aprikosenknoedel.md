@@ -1,10 +1,10 @@
 ---
-title: "Aprikosenknoedel"
+title: "Aprikosenknödel"
 description: "Kartoffelknödel mit Aprikosenfüllung"
 tags:
   - Aprikosen
   - Süßspeise
-  - portions: "ca. 12 Knödel"
+portions: "ca. 12 Knödel"
 hasImages: false
 lastUpdated: true
 ---

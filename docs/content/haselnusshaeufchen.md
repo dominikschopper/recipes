@@ -1,6 +1,6 @@
 ---
-title: "Haselnusshaeufchen"
-description: "Haselnusshäufchen / <a href="#en">jump to en version</a>"
+title: "Haselnusshäufchen"
+description: "das klassische Weihnachtsgebäck"
 tags:
   - Weihnachtsgebäck
   - Nüsse
@@ -27,27 +27,6 @@ lastUpdated: true
 1. Ofen auf 130°C vorheizen
 1. bei 130° im Ofen backen/trocknen
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
