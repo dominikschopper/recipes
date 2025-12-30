@@ -1,6 +1,6 @@
 ---
-title: "Marmorkuche"
-description: "Das Marmorkucherezept meiner Mutter"
+title: "Marmorkuchen"
+description: "Das Rezept für Marmorkuchen von meiner Mutter"
 tags:
   - Kuchen
   - Schokolade
