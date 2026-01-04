@@ -89,3 +89,128 @@ body {
 .vp-doc {
   min-height: auto;
 }
+
+/* Print Styles */
+@media print {
+  /* A4-Seitengröße festlegen */
+  @page {
+    size: A4;
+    margin: 2cm;
+  }
+
+  /* Navigation und UI-Elemente verstecken */
+  .VPNav,
+  .VPSidebar,
+  .VPLocalNav,
+  .VPFooter,
+  .VPDocAside,
+  .VPDocAsideOutline,
+  .aside-container,
+  nav,
+  aside {
+    display: none !important;
+  }
+
+  /* Layout für Druck optimieren */
+  .Layout {
+    min-height: auto;
+    padding: 0;
+  }
+
+  .VPContent {
+    padding: 0 !important;
+  }
+
+  .vp-doc {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+
+  /* Container auf volle Breite */
+  .container {
+    max-width: 100% !important;
+  }
+
+  /* Schriftgröße für bessere Lesbarkeit erhöhen */
+  body {
+    font-size: 12pt;
+    line-height: 1.6;
+    background: white !important;
+    color: black !important;
+  }
+
+  h1 {
+    font-size: 24pt;
+    margin-bottom: 12pt;
+  }
+
+  h2 {
+    font-size: 18pt;
+    margin-top: 16pt;
+    margin-bottom: 8pt;
+  }
+
+  h3 {
+    font-size: 14pt;
+    margin-top: 12pt;
+    margin-bottom: 6pt;
+  }
+
+  /* Listen größer */
+  ul, ol {
+    font-size: 11pt;
+  }
+
+  li {
+    margin-bottom: 4pt;
+  }
+
+  /* Überschriften nicht vom Inhalt trennen */
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    break-after: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Einzelne Listenelemente nicht umbrechen */
+  li {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Absätze zusammenhalten */
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Schwarze Schrift auf weißem Hintergrund */
+  .vp-doc {
+    background: white !important;
+    color: black !important;
+  }
+
+  /* Links schwarz und unterstrichen */
+  a {
+    color: black !important;
+    text-decoration: underline;
+  }
+
+  /* Bilder für Druck optimieren */
+  img {
+    max-width: 45% !important;
+    height: auto !important;
+    display: inline-block !important;
+    margin: 0.5cm 0.25cm !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Wenn ein Bild alleine in einem Absatz steht, größer anzeigen */
+  p img:only-child {
+    max-width: 60% !important;
+    display: block !important;
+    margin: 0.5cm auto !important;
+  }
+}
