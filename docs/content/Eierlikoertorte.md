@@ -5,6 +5,7 @@ tags:
   - Kuchen
   - Klassiker
   - Alkohol
+  - glutenfrei
 portions: "12-16 Stücke"
 hasImages: false
 lastUpdated: true

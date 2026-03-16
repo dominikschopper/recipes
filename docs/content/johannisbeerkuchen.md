@@ -6,6 +6,7 @@ tags:
   - Mandeln
   - Johannisbeeren
   - schwäbisch
+  - Klassiker
 hasImages: false
 lastUpdated: true
 ---

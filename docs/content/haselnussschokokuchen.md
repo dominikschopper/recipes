@@ -5,6 +5,7 @@ tags:
   - Kuchen
   - Nüsse
   - Schokolade
+  - glutenfrei
 hasImages: false
 lastUpdated: true
 ---
