@@ -1,6 +1,6 @@
 ---
 title: "Eierlikörtorte"
-description: "schokoladiger Nusskuchen mit Eierlikörspiegel"
+description: "schokoladiger Mandelkuchen mit Eierlikörspiegel"
 tags:
   - Kuchen
   - Klassiker
@@ -45,7 +45,7 @@ lastUpdated: true
 - Sahne mit Zucker und SahnefestigerSahnesteif schlagen.
 - Ungefähr einen Spritzbeutel voll Sahne beiseite stellen
 - Mit der Sahne erst den Rand und dann die Oberseite der Torte bestreichen.
-- Am Rand der Torte eine "Sahnemauer" aus Sahnetupten machen
+- Am oberen Rand der Torte eine kleine Sahnemauer aus Sahn aus dem Spritzbeutel machen.
 - Den äußeren Rand der Torte mit Schokoladenraspeln bestreuen.
 - Den Eierlikör langsam auf die Oberseite der Torte gießen und dabei einen Eierelikörspiegel herstellen.
 - Nochmal kalt stellen (ca eine Stunde), damit die Verzierung fest wird.
