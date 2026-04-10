@@ -1,6 +1,6 @@
 ---
 title: "Blondies mit Himbeeren"
-description: "Eine fruchtige ALternative zu Brownies"
+description: "Eine fruchtige Alternative zu Brownies"
 tags:
   - Kuchen
   - Himbeeren
