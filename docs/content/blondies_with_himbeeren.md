@@ -1,3 +1,13 @@
+---
+title: "Himbeer Blondies"
+description: "Eine fruchtige ALternative zu Brownies"
+tags:
+  - Kuchen
+  - Himbeeren
+hasImages: false
+difficulty: "mittel"
+lastUpdated: true
+---
 # Raspberry & White Chocolate Blondies
 
 ## Zutaten
