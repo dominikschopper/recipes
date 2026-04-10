@@ -1,6 +1,6 @@
 ---
 title: "Choclate'n'Malt Cookies"
-description: "double choclate 'n malt cookies"
+description: "double choclate'n malt cookies"
 tags:
   - cookies
   - Mandeln
@@ -9,7 +9,7 @@ hasImages: false
 lastUpdated: true
 ---
 
-# double choclate 'n malt cookies
+# double choclate'n malt cookies
 
 ## Ingredients
 
