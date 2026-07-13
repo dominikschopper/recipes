@@ -57,11 +57,11 @@ In Folie gewickelt im Kühlschrank ruhen lassen.
 
 4. Die Eigelbe mit der 50gr Zucker (und ggf. etwas flüssigem Honig) schaumig rühren
 
-5. Zuerst ein Drittel der Eischneemasse , dann die Mandeln unterrühren
+5. Zuerst ein Drittel der Eischneemasse , dann die Mandeln unterrühren.
 
 5. Den Boden aus dem Kühlschrank holen und die Hälfte bis 2/3 des Teiges für den Boden verwenden und in der Form flachdrücken. Den Rest zu einer dünnen Wurst formen, am Rand entlang legen und andrücken
 
-6. Johannisbeeren mit Saft und Zucker unter die Eimasse heben und dann in die Form geben.
+6. Johannisbeeren mit Saft und Zucker unter die Eimasse heben und dann den restlichen Eischnee vorsichtig unterheben und alles in die Form geben.
 
 7. Ca. 30-40 min bei 180° C backen, bis er innen nicht mehr allzu klebrig ist
 
