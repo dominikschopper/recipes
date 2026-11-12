@@ -4,6 +4,7 @@ description: "ein klassisches Weihnachtsgebäck, nach dem Rezept meiner Mutter"
 tags:
   - Mandeln
   - Weihnachtsgebäck
+  - Zimt
 hasImages: false
 lastUpdated: true
 ---

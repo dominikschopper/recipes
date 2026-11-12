@@ -4,8 +4,8 @@ description: "klassisches Weihnachtsgebäck"
 tags:
   - Weihnachtsgebäck
   - Nüsse
+  - Mandeln
   - Klassiker
-  - Alkohol
   - glutenfrei
 portions: "ca 20 Stück"
 hasImages: false
